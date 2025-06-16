@@ -41,4 +41,3 @@ named it `SomeRootEntity` and convert to dart
   print(encodedJson);//{"anInt":1,"aDouble":2.3,"aString":"hello","aBool":false,"anObj":{"name":"x","age":18.0}}
 ```
 
-![reademe](readme.png)
